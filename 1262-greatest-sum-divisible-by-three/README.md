@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/greatest-sum-divisible-by-three">1388. Greatest Sum Divisible by Three</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <em>the <strong>maximum possible sum </strong>of elements of the array such that it is divisible by three</em>.</p>
+<h2><a href="https://leetcode.com/problems/greatest-sum-divisible-by-three">1262. Greatest Sum Divisible by Three</a></h2><h3>Medium</h3><hr><p>Given an integer array <code>nums</code>, return <em>the <strong>maximum possible sum </strong>of elements of the array such that it is divisible by three</em>.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
