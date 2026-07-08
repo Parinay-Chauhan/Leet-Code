@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2540-minimum-common-value](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [2540-minimum-common-value](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -41,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2540-minimum-common-value](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/2540-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
