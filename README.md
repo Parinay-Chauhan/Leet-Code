@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0704-binary-search](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2540-minimum-common-value](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
