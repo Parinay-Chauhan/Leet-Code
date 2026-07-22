@@ -3,7 +3,6 @@ public:
     bool isPalindrome(string s) {
     string temp;
 
-    // Sirf letters aur digits rakho
     for (int i = 0; i < s.size(); i++)
     {
         if (isalnum(s[i]))
