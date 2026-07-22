@@ -1,29 +1,29 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-    string str = "";
+    string temp;
 
-    // Sirf letters aur digits lo
-    for (char ch : s)
+    // Sirf letters aur digits rakho
+    for (int i = 0; i < s.size(); i++)
     {
-        if (isalnum(ch))
+        if (isalnum(s[i]))
         {
-            str += tolower(ch);
+            temp.push_back(tolower(s[i]));
         }
     }
 
-    int i = 0;
-    int j = str.size() - 1;
+    int start = 0;
+    int end = temp.size() - 1;
 
-    while (i < j)
+    while (start < end)
     {
-        if (str[i] != str[j])
+        if (temp[start] != temp[end])
         {
             return false;
         }
 
-        i++;
-        j--;
+        start++;
+        end--;
     }
 
     return true;
