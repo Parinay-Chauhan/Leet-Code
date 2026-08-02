@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/1262-greatest-sum-divisible-by-three) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
