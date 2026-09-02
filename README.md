@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Matrix
 |  |
 | ------- |
