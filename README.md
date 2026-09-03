@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Parinay-Chauhan/https-github.com-Parinay-Chauhan-Leet_Code/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
