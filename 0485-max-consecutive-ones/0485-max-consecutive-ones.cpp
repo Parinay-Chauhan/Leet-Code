@@ -4,10 +4,12 @@ public:
       int max_count = 0;
         int current_count = 0;
 
-        for (int num : nums) {
-            if (num == 1) {
+        for (int i = 0; i < nums.size(); i++) {
+
+            if (nums[i] == 1) {
                 current_count++;
                 max_count = max(max_count, current_count);
+
             } else {
                 current_count = 0; // Reset count on encountering 0
             }
